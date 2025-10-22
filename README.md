@@ -1,0 +1,2 @@
+# deneme
+ders içi deneme
